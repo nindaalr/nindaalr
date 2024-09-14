@@ -3,7 +3,7 @@ Kelompok : Maxwell
 Program Studi : Teknologi Informasi
 NIM :  24/545484/TK/60679
 
-Program ini membantu untuk menghitung seberapa banyak liter pertamax yang didapat dari uang yang dimiliki oleh pengguna
+Program ini membantu untuk menghitung seberapa banyak liter pertamax yang didapat dari uang yang diinput oleh pengguna
 
 <!---
 nindaalr/nindaalr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
